@@ -1,4 +1,4 @@
-# e-Learning Management System
+# Learning Management System(Canvas)
 
 A learning management and online assessment system for academic education.
 
